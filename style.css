@@ -147,11 +147,11 @@ h1.main, p.demos {
 
 .sp-container .frame-8 {
 	color: #fff;
-	top: 165%;
+	top: 145%;
 	left: 0;
     text-align: center;
     width: 100%;
-    font-size: 140px;
+    font-size: 120px;
 	-webkit-animation: blurWFadeIn8 1s ease-in backwards;
 	-moz-animation: blurWFadeIn8 1s ease-in backwards;
 	-ms-animation: blurWFadeIn8 1s ease-in backwards;
@@ -467,8 +467,8 @@ h2.frame-4 a {
 		width: 105px;
 	}
 	.sp-container .frame-8 {
-		top: 145%;
-		font-size: 100px;
+		top: 140%;
+    	font-size: 90px;
 	}
 	@-webkit-keyframes blurW2FadeIn {
 		0% {
@@ -496,7 +496,8 @@ h2.frame-4 a {
 	}
 
 	.sp-container .frame-8 {
-		font-size: 90px;
+		top: 125%;
+		font-size: 70px;
 	}
 
   }
@@ -520,9 +521,6 @@ h2.frame-4 a {
 
 	.sp-container .frame-7 img {
 		height: 88px;
-	}
-	.sp-container .frame-8 {
-		font-size: 80px;
 	}
 
 	@-webkit-keyframes blurW2FadeIn {
@@ -562,8 +560,8 @@ h2.frame-4 a {
 		height: 75px;
 	}
 	.sp-container .frame-8 {
-		top: 135%;
-		font-size: 70px;
+		top: 124%;
+		font-size: 60px;
 	}
 
 	@-webkit-keyframes blurW2FadeIn {
@@ -593,8 +591,8 @@ h2.frame-4 a {
 			margin-left: -28px;
 		}
 		.sp-container .frame-8 {
-			top: 120%;
-			font-size: 60px;
+			top: 115%;
+			font-size: 55px;
 		}
 
 
@@ -621,8 +619,8 @@ h2.frame-4 a {
 		height: 60px;
 	}
 	.sp-container .frame-8 {
-		top: 120%;
-		font-size: 55px;
+		top: 110%;
+    	font-size: 50px;
 	}
 
 
@@ -664,8 +662,8 @@ h2.frame-4 a {
 		margin-right: 10px;
 	}
 	.sp-container .frame-8 {
-		top: 115%;
-		font-size: 50px;
+		top: 105%;
+		font-size: 45px;
 	}
 	@-webkit-keyframes blurW2FadeIn {
 		0% {
@@ -703,8 +701,8 @@ h2.frame-4 a {
 		height: 36px;
 	}
 	.sp-container .frame-8 {
-		top: 100%;
-		font-size: 39px;
+		top: 95%;
+		font-size: 33px
 	}
 
 	
@@ -722,8 +720,8 @@ h2.frame-4 a {
 
 	}
 	.sp-container .frame-8 {
-		top: 95%;
-		font-size: 37px;
+		top: 90%;
+		font-size: 30px;
 	}
 
 	.sp-container .frame-7 img {
@@ -758,8 +756,8 @@ h2.frame-4 a {
 		height: 28px;
 	}
 	.sp-container .frame-8 {
-		top: 88%;
-		font-size: 33px;
+		top: 81%;
+    	font-size: 24px;
 	}
   }
 
