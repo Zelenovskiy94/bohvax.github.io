@@ -429,6 +429,9 @@ h2.frame-4 a {
 	.sp-container .frame-7 img{
 		height: 120px;
 	}
+	.sp-container .frame-6 {
+		margin-left: -47px;
+	}
 
   }
 @media only screen and (max-width: 1440px) {
@@ -440,6 +443,7 @@ h2.frame-4 a {
 		height: 105px;
 	}
 
+
   }
 
   @media only screen and (max-width: 1200px) {
@@ -448,7 +452,7 @@ h2.frame-4 a {
 		font-size: 100px ;
 	}
 	.sp-container .frame-6 {
-		margin-left: -34px;
+		margin-left: -38px;
 	}
 	.sp-container h2 {		
 		font-size: 85px;
@@ -484,7 +488,7 @@ h2.frame-4 a {
 		font-size: 86px ;
 	}
 	.sp-container .frame-6 {
-		margin-left: -30px;
+		margin-left: -33px;
 	}
 	.sp-container h2 {		
 		font-size: 72px;
@@ -531,7 +535,7 @@ h2.frame-4 a {
 		font-size: 66px ;
 	}
 	.sp-container .frame-6 {
-		margin-left: -24px;
+		margin-left: -25px;
 	}
 	.sp-container h2 {		
 		font-size: 63px;
@@ -544,9 +548,7 @@ h2.frame-4 a {
 	.sp-container .frame-7 img {
 		height: 60px;
 	}
-	.sp-container .frame-7 {
-		margin-right: 5px;
-	}
+
 
 	@-webkit-keyframes blurW2FadeIn {
 		0% {
@@ -569,7 +571,7 @@ h2.frame-4 a {
 		font-size: 57px ;
 	}
 	.sp-container .frame-6 {
-		margin-left: -18px;
+		margin-left: -22px;
 	}
 	.sp-container h2 {		
 		font-size: 56px;
@@ -581,6 +583,9 @@ h2.frame-4 a {
 
 	.sp-container .frame-7 img {
 		height: 49px;
+	}
+	.sp-container .frame-7 {
+		margin-right: 5px;
 	}
 	@-webkit-keyframes blurW2FadeIn {
 		0% {
@@ -604,7 +609,7 @@ h2.frame-4 a {
 		font-size: 42px ;
 	}
 	.sp-container .frame-6 {
-		margin-left: -14px;
+		margin-left: -16px;
 	}
 	.sp-container h2 {		
 		font-size: 42px;
@@ -615,7 +620,7 @@ h2.frame-4 a {
 	}
 
 	.sp-container .frame-7 img {
-		height: 37px;
+		height: 31px;
 	}
 
 
@@ -623,13 +628,10 @@ h2.frame-4 a {
   }
   @media only screen and (max-width: 456px) {
 	.sp-container h2.frame-4 {
-		font-size: 30px ;
+		font-size: 38px ;
 	}
 	.sp-container .frame-6 {
-		margin-left: -9px;
-	}
-	.sp-container h2 {		
-		font-size: 29px;
+		margin-left: -14px;
 	}
 
 	.sp-container .frame-7 {
@@ -638,7 +640,7 @@ h2.frame-4 a {
 	}
 
 	.sp-container .frame-7 img {
-		height: 26px;
+		height: 29px;
 	}
 	@-webkit-keyframes blurW2FadeIn {
 		0% {
@@ -653,6 +655,18 @@ h2.frame-4 a {
 			text-shadow: 0px 0px 1px #fff;
 			-webkit-transform: scale(1);
 		}
+	}
+  }
+  @media only screen and (max-width: 360px) {
+	.sp-container h2.frame-4 {
+		font-size: 33px ;
+	}
+	.sp-container .frame-6 {
+		margin-left: -13px;
+	}
+
+	.sp-container .frame-7 img {
+		height: 28px;
 	}
   }
 
