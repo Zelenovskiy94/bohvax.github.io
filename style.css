@@ -480,6 +480,20 @@ h2.frame-4 a {
 	.sp-container .frame-7 img{
 		height: 105px;
 	}
+	@-webkit-keyframes blurW2FadeIn {
+		0% {
+			opacity: 0;
+			width: 0;
+			text-shadow: 0px 0px 100px #fff;
+			-webkit-transform: scale(1.5);
+		}
+		100% {
+			opacity: 1;
+			width: 105px;
+			text-shadow: 0px 0px 1px #fff;
+			-webkit-transform: scale(1);
+		}
+	}
 
 
   }
