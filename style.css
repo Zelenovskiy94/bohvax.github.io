@@ -495,7 +495,9 @@ h2.frame-4 a {
 		height: 105px;
 	}
 
-
+	.sp-container .frame-8 {
+		font-size: 90px;
+	}
 
   }
 
@@ -518,6 +520,9 @@ h2.frame-4 a {
 
 	.sp-container .frame-7 img {
 		height: 88px;
+	}
+	.sp-container .frame-8 {
+		font-size: 80px;
 	}
 
 	@-webkit-keyframes blurW2FadeIn {
@@ -556,6 +561,10 @@ h2.frame-4 a {
 	.sp-container .frame-7 img {
 		height: 75px;
 	}
+	.sp-container .frame-8 {
+		top: 135%;
+		font-size: 70px;
+	}
 
 	@-webkit-keyframes blurW2FadeIn {
 		0% {
@@ -583,6 +592,10 @@ h2.frame-4 a {
 		.sp-container .frame-6 {
 			margin-left: -28px;
 		}
+		.sp-container .frame-8 {
+			top: 120%;
+			font-size: 60px;
+		}
 
 
   }
@@ -606,6 +619,10 @@ h2.frame-4 a {
 
 	.sp-container .frame-7 img {
 		height: 60px;
+	}
+	.sp-container .frame-8 {
+		top: 120%;
+		font-size: 55px;
 	}
 
 
@@ -646,6 +663,10 @@ h2.frame-4 a {
 	.sp-container .frame-7 {
 		margin-right: 10px;
 	}
+	.sp-container .frame-8 {
+		top: 115%;
+		font-size: 50px;
+	}
 	@-webkit-keyframes blurW2FadeIn {
 		0% {
 			opacity: 0;
@@ -681,7 +702,10 @@ h2.frame-4 a {
 	.sp-container .frame-7 img {
 		height: 36px;
 	}
-
+	.sp-container .frame-8 {
+		top: 100%;
+		font-size: 39px;
+	}
 
 	
   }
@@ -696,6 +720,10 @@ h2.frame-4 a {
 	.sp-container .frame-7 {
 		width: 22px;
 
+	}
+	.sp-container .frame-8 {
+		top: 95%;
+		font-size: 37px;
 	}
 
 	.sp-container .frame-7 img {
@@ -728,6 +756,10 @@ h2.frame-4 a {
 	}
 	.sp-container .frame-7 img {
 		height: 28px;
+	}
+	.sp-container .frame-8 {
+		top: 88%;
+		font-size: 33px;
 	}
   }
 
