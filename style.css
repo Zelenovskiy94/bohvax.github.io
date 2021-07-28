@@ -156,10 +156,10 @@ h1.main, p.demos {
 	-moz-animation: blurWFadeIn8 1s ease-in backwards;
 	-ms-animation: blurWFadeIn8 1s ease-in backwards;
 	animation: blurWFadeIn8 1s ease-in backwards;
-	-webkit-animation-delay: 14s;
-	-moz-animation-delay: 14s;
-	-ms-animation-delay: 14s;
-	animation-delay: 14s;
+	-webkit-animation-delay: 15s;
+	-moz-animation-delay: 15s;
+	-ms-animation-delay: 15s;
+	animation-delay: 15s;
 }
 
 .sp-globe {
