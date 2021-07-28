@@ -114,7 +114,7 @@ h1.main, p.demos {
 .sp-container .frame-6 {
 	position: relative;
 	font-size: inherit;
-	margin-left: -46px;
+	margin-left: -76px;
 	display: inline-block;
 	width: 4ch;
 	-webkit-animation: blurWFadeIn 1s ease-in backwards;
@@ -143,6 +143,23 @@ h1.main, p.demos {
     display: inline-block;
     position: relative;
     bottom: -14px;
+}
+
+.sp-container .frame-8 {
+	color: #fff;
+	top: 165%;
+	left: 0;
+    text-align: center;
+    width: 100%;
+    font-size: 140px;
+	-webkit-animation: blurWFadeIn8 1s ease-in backwards;
+	-moz-animation: blurWFadeIn8 1s ease-in backwards;
+	-ms-animation: blurWFadeIn8 1s ease-in backwards;
+	animation: blurWFadeIn8 1s ease-in backwards;
+	-webkit-animation-delay: 14s;
+	-moz-animation-delay: 14s;
+	-ms-animation-delay: 14s;
+	animation-delay: 14s;
 }
 
 .sp-globe {
@@ -238,6 +255,18 @@ h1.main, p.demos {
 	100% {
 		opacity: 1;
 		width: 4ch;
+		text-shadow: 0px 0px 1px #fff;
+		-webkit-transform: scale(1);
+	}
+}
+@-webkit-keyframes blurWFadeIn8 {
+	0% {
+		opacity: 0;
+		text-shadow: 0px 0px 100px #fff;
+		-webkit-transform: scale(1.5);
+	}
+	100% {
+		opacity: 1;
 		text-shadow: 0px 0px 1px #fff;
 		-webkit-transform: scale(1);
 	}
@@ -436,6 +465,10 @@ h2.frame-4 a {
 	}
 	.sp-container .frame-7 {
 		width: 105px;
+	}
+	.sp-container .frame-8 {
+		top: 145%;
+		font-size: 100px;
 	}
 
   }
