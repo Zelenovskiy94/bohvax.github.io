@@ -596,7 +596,7 @@ h2.frame-4 a {
 		height: 49px;
 	}
 	.sp-container .frame-7 {
-		margin-right: 5px;
+		margin-right: 10px;
 	}
 	@-webkit-keyframes blurW2FadeIn {
 		0% {
@@ -651,7 +651,7 @@ h2.frame-4 a {
 	}
 
 	.sp-container .frame-7 img {
-		height: 32px;
+		height: 34px;
 	}
 	@-webkit-keyframes blurW2FadeIn {
 		0% {
@@ -675,7 +675,9 @@ h2.frame-4 a {
 	.sp-container .frame-6 {
 		margin-left: -13px;
 	}
-
+	.sp-container .frame-7 {
+		margin-right: 5px;
+	}
 	.sp-container .frame-7 img {
 		height: 28px;
 	}
